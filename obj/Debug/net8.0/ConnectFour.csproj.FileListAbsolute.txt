@@ -31,3 +31,4 @@ C:\Users\Wendy Aguilar\ConnectFour\obj\Debug\net8.0\ConnectFour.pdb
 C:\Users\Wendy Aguilar\ConnectFour\obj\Debug\net8.0\ConnectFour.genruntimeconfig.cache
 C:\Users\Wendy Aguilar\ConnectFour\obj\Debug\net8.0\ref\ConnectFour.dll
 c:\Users\Wendy Aguilar\ConnectFour\obj\Debug\net8.0\scopedcss\Components\Board.razor.rz.scp.css
+c:\Users\Wendy Aguilar\ConnectFour\obj\Debug\net8.0\ConnectFour.sourcelink.json
